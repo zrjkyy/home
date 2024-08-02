@@ -1,5 +1,4 @@
-[
-  
+[ 
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
@@ -12,7 +11,6 @@
     "tip": "来封 Email ~",
     "url": "mailto:admin@hyun.cc"
   },
- 
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
