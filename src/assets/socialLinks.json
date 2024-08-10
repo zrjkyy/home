@@ -2,19 +2,25 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
+    "tip": "点击扫码加QQ ~",
     "url": "https://tc.7zz.cn/i/2024/08/11/66b7e788f0f08.png"
+  },
+  {
+    "name": "微信",
+    "icon": "/images/icon/wx.png",
+    "tip": "点击扫码加微信 ~",
+    "url": "https://tc.7zz.cn/i/2024/08/11/66b7e9195aa63.png"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
+    "tip": "来封 Email 吧 ~",
     "url": "mailto:admin@hyun.cc"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "你懂的 老弟 ~",
     "url": "https://t.me/wzrjkyy"
   }
 ]
