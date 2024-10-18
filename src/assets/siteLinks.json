@@ -13,20 +13,5 @@
     "icon": "CompactDisc",
     "name": "监控",
     "link": "https://nz.7zz.cn/"
-  },
-  {
-    "icon": "Compass",
-    "name": "导航站",
-    "link": "https://dh.hyun.cc"
-  },
-  {
-    "icon": "Book",
-    "name": "待添加",
-    "link": "/"
-  },
-  {
-    "icon": "Fire",
-    "name": "待添加",
-    "link": "/"
   }
 ]
