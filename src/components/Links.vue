@@ -41,12 +41,12 @@
 </template>
 
 <script setup>
-import { computed } from "vue";
 import { Icon } from "@vicons/utils";
-import { Link, Blog, CompactDisc, Cloud, Compass, AddIcCallOutlined, Book, Fire, LaptopCode, AccountCircleOutlined } from "@vicons/fa"; 
+// 可前往 https://www.xicons.org 自行挑选并在此处引入
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
-import { Pagination, Mousewheel } from "swiper";
+import { Pagination, Mousewheel } from "swiper/modules";
 import siteLinks from "@/assets/siteLinks.json";
 
 const store = mainStore();
@@ -67,13 +67,10 @@ const siteIcon = {
   Cloud,
   CompactDisc,
   Compass,
-  AccountCircleOutlined,
-  AddIcCallOutlined,
   Book,
   Fire,
   LaptopCode,
 };
-
 
 // 链接跳转
 const jumpLink = (data) => {
